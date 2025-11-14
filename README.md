@@ -75,18 +75,23 @@ Hosting: GitHub Pages (optional)
 
 📸 Screenshots
 
- Home Page
-![Home Page](Screenshot%2025-11-15%000046.png)
- Next Page
-![Next Page](Screenshot%2025-11-15%000112.png)
- Women Page
-![Women Page](Screenshot%2025-11-15%000757.png) 
-More Information About Women
-![More information About Women](Screenshot%2025-11-15%000813.png)
-Man Page
-![Man Page](Screenshot%2025-11-15%001050.png)
-More Information About man
-![More Information About man](Screenshot%2025-11-15%001111.png)
+### Home Page
+![Home Page](Screenshot%202025-11-15%20000046.png)
+
+### Next Page
+![Next Page](Screenshot%202025-11-15%20000112.png)
+
+### Women Page
+![Women Page](Screenshot%202025-11-15%20000757.png)
+
+### More Information About Women Style
+![More Information About Women](Screenshot%202025-11-15%20000813.png)
+
+### Man Page
+![Man Page](Screenshot%202025-11-15%20001050.png)
+
+### More Information About Man Style
+![More Information About Man](Screenshot%202025-11-15%20001111.png)
  
 
 🧠 How It Works

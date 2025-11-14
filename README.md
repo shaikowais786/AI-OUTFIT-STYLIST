@@ -75,7 +75,11 @@ Hosting: GitHub Pages (optional)
 
 📸 Screenshots
 
+ Home Page
+![Home Page]()
 
+ Festival Mode
+![Festival Mode](screenshots/festival_mode.png)
 
 🧠 How It Works
 

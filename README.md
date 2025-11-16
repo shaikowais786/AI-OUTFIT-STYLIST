@@ -91,8 +91,13 @@ Hosting: GitHub Pages (optional)
 ![Man Page](Screenshot%202025-11-15%20001050.png)
 
 ### More Information About Man Style
-![More Information About Man](Screenshot%202025-11-15%20001111.png)
- 
+![More Information About Man](Screenshot%202025-11-15%20001111.png) 
+
+### Edit and Animate page
+![Edit and Animate](Screenshot%2025-11-17%021055.png)
+
+###AI Chatbot
+![AI Chatbot](Screenshot%2025-11-17%021116.png)
 
 🧠 How It Works
 

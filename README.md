@@ -93,12 +93,11 @@ Hosting: GitHub Pages (optional)
 ### More Information About Man Style
 ![More Information About Man](Screenshot%202025-11-15%20001111.png) 
 
-## ✨ Edit & Animate Page
-![Edit & Animate](Screenshot%2025-11-17%201055.png)
+### Edit & Animate Page
+![Edit & Animate](Screenshot%202025-11-17%20021055.png)
 
-## 🤖 AI Chatbot
-![AI Chatbot](Screenshot%2025-11-17%201116.png)
-
+### AI Chatbot
+![AI Chatbot](Screenshot%202025-11-17%20021116.png)
 🧠 How It Works
 
 User selects event & preferences
